@@ -8,7 +8,7 @@
 <br>
 
 <a href="https://promleeblog.netlify.app">
-  <img src="https://img.shields.io/badge/PROMLEE Blog-black?logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PROMLEE Blog-gray?logo=nextdotjs&logoColor=white"/>
 </a>
 
   <a href="mailto:donghoon099@naver.com">
