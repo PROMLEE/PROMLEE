@@ -10,15 +10,12 @@
 <a href="https://promleeblog.netlify.app">
   <img src="https://img.shields.io/badge/PROMLEE Blog-gray?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </a>
-
-  <a href="mailto:donghoon099@naver.com">
-    <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=Gmail&logoColor=black"/>
-  </a>
-
-
-  <a href="https://www.instagram.com/lee_dhoon99/">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
+<a href="mailto:donghoon099@naver.com">
+  <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=Gmail&logoColor=black"/>
+</a>
+<a href="https://www.instagram.com/lee_dhoon99/">
+  <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
 
 ## ADDITIONAL SKILLS
 <span>
