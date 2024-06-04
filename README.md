@@ -13,11 +13,11 @@
 <a href="mailto:donghoon099@naver.com">
   <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=Gmail&logoColor=black"/>
 </a>
-<a href="https://www.instagram.com/lee_dhoon99/">
+<a href="https://www.instagram.com/lee_dhoon99">
   <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
 
-### ADDITIONAL SKILLS
+## ADDITIONAL SKILLS
 <span>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
 </span>
@@ -29,6 +29,19 @@
 </span>
 <span>
     <img src="https://img.shields.io/badge/Flask-323232?style=for-the-badge&logo=flask&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</span>
+<br>
+<span>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 </span>
 </summary>
 </details>
