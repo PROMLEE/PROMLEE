@@ -6,21 +6,20 @@
 <details>
 <summary>About Me</summary>
 <br>
-<span>
+
 <a href="https://promleeblog.netlify.app">
   <img src="https://img.shields.io/badge/PROMLEE Blog-black?logo=nextdotjs&logoColor=white"/>
 </a>
-</span>
-<span>
+
   <a href="mailto:donghoon099@naver.com">
     <img src="https://img.shields.io/badge/Email-white?logo=Gmail&logoColor=black"/>
   </a>
-</span>
-<span>
+
+
   <a href="https://www.instagram.com/lee_dhoon99/">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?logo=Instagram&logoColor=white"/>
   </a>
-</span>
+
 </summary>
 </details>
 
