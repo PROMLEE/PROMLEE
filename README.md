@@ -19,7 +19,7 @@
 
 ## ADDITIONAL SKILLS
 <span>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=blue"/>
 </span>
 <span>
     <img src="https://img.shields.io/badge/Next.js-gray?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
