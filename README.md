@@ -8,7 +8,7 @@
 <br>
 
 <a href="https://promleeblog.netlify.app">
-  <img src="https://img.shields.io/badge/PROMLEE Blog-gray?logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PROMLEE Blog-gray?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </a>
 
   <a href="mailto:donghoon099@naver.com">
@@ -19,7 +19,10 @@
   <a href="https://www.instagram.com/lee_dhoon99/">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?logo=Instagram&logoColor=white"/>
   </a>
-
+## ADDITIONAL SKILLS
+<span>
+    <img src="https://img.shields.io/badge/React-#61DAFB?logo=react&logoColor=white"/>
+</span>
 </summary>
 </details>
 
