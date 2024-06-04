@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PROMLEE&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github.com/PROMLEE/PROMLEE/blob/output/github-contribution-grid-snake.svg"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img src="https://github.com/PROMLEE/PROMLEE/blob/output/github-contribution-grid-snake.svg"/>
+</picture>
