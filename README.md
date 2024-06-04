@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PROMLEE&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github.com/PROMLEE/PROMLEE/blob/output/github-contribution-grid-snake.svg"/>
