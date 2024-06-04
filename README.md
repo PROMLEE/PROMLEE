@@ -25,9 +25,9 @@
 </details>
 
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PROMLEE&layout=donut&show_icons=true&ttheme=apprentice&hide_border=true&count_private=true" width=38% />
-<img src="https://github-readme-stats.vercel.app/api?username=PROMLEE&layout=donut&show_icons=true&ttheme=apprentice&hide_border=true&count_private=true" width=56%>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PROMLEE&layout=donut&show_icons=true&ttheme=apprentice&hide_border=true&count_private=true" width=94%/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PROMLEE&layout=donut&show_icons=true&theme=apprentice&hide_border=true&count_private=true" width=38% />
+<img src="https://github-readme-stats.vercel.app/api?username=PROMLEE&layout=donut&show_icons=true&theme=apprentice&hide_border=true&count_private=true" width=56%>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PROMLEE&layout=donut&show_icons=true&theme=apprentice&hide_border=true&count_private=true" width=94%/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/PROMLEE/PROMLEE/blob/output/github-contribution-grid-snake-dark.svg" />
