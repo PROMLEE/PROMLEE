@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
 
-## ADDITIONAL SKILLS
+### ADDITIONAL SKILLS
 <span>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
 </span>
