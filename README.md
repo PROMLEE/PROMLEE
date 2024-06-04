@@ -12,16 +12,17 @@
 </a>
 
   <a href="mailto:donghoon099@naver.com">
-    <img src="https://img.shields.io/badge/Email-white?logo=Gmail&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=Gmail&logoColor=black"/>
   </a>
 
 
   <a href="https://www.instagram.com/lee_dhoon99/">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?logo=Instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
+
 ## ADDITIONAL SKILLS
 <span>
-    <img src="https://img.shields.io/badge/React-#61DAFB?logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
 </span>
 </summary>
 </details>
