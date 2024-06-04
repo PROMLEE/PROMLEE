@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:043e76,10:366491,30:688bac,75:9ablc8,100:ccd8e3&height=100&section=header&text=&fontSize=0" width="100%"/>
-<br/><br/>
+<br/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+PROME+LEE;Nice+To+Meet+You" alt="Typing SVG" /></a>
 <br>
 <details>
