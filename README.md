@@ -19,8 +19,3 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <img src="https://github.com/PROMLEE/PROMLEE/blob/output/github-snake-dark.svg">
 </picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-    <img src="https://github.com/PROMLEE/PROMLEE/blob/output/github-snake-dark.svg">
-</picture>
