@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/Flask-gray?style=for-the-badge&logo=flask&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Flask-323232?style=for-the-badge&logo=flask&logoColor=white"/>
 </span>
 </summary>
 </details>
