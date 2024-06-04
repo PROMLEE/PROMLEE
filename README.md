@@ -22,13 +22,13 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/Next.js-00000?style=for-the-badge&logo=springboot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Next.js-gray?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Flask-gray?style=for-the-badge&logo=flask&logoColor=white"/>
 </span>
 </summary>
 </details>
