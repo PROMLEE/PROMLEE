@@ -8,7 +8,7 @@
 <br>
 <span>
 <a href="https://promleeblog.netlify.app">
-  <img src="https://img.shields.io/badge/PROMLEE Blog-black?style=plastic&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PROMLEE Blog-black?logo=nextdotjs&logoColor=white"/>
 </a>
 </span>
 <span>
@@ -18,7 +18,7 @@
 </span>
 <span>
   <a href="https://www.instagram.com/lee_dhoon99/">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?logo=Instagram&logoColor=white"/>
   </a>
 </span>
 </summary>
