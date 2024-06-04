@@ -8,7 +8,7 @@
 <br>
 <span>
 <a href="https://promleeblog.netlify.app">
-  <img src="https://img.shields.io/badge/PROMLEE Blog-red?style=plastic&logo=GitHub Sponsors&logoColor=white"/>
+  <img src="https://img.shields.io/nextdotjs/PROMLEE Blog-red?style=plastic&logo=GitHub Sponsors&logoColor=white"/>
 </a>
 </span>
 <span>
