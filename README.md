@@ -13,7 +13,7 @@
 </span>
 <span>
   <a href="mailto:donghoon099@naver.com">
-    <img src="https://img.shields.io/badge/Email-black?style=plastic&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-white?style=plastic&logo=Gmail&logoColor=black"/>
   </a>
 </span>
 <span>
