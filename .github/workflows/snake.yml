@@ -22,7 +22,10 @@ jobs:
           github_user_name: PROMLEE
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?color_snake=#58A6FF&color_dots=#EEEEEE,#E1BEE7,#BA68C8,#8E24AA,#4A148C?palette=github-dark
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+        # dist/github-snake-dark.svg?color_snake=#58A6FF&color_dots=#EEEEEE,#E1BEE7,#BA68C8,#8E24AA,#4A148C?palette=github-dark
 
 
       - name: push github-contribution-grid-snake.svg to the output branch
