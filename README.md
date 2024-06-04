@@ -5,7 +5,7 @@
 
 <details>
 <summary>About Me</summary>
-<br><br>
+
 <span>
 <a href="https://promleeblog.netlify.app">
   <img src="https://img.shields.io/badge/PROMLEE Blog-red?style=plastic&logo=GitHub Sponsors&logoColor=white"/>
@@ -23,6 +23,8 @@
 </span>
 </summary>
 </details>
+
+<br><br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PROMLEE&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
 
