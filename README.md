@@ -56,7 +56,7 @@
 </details>
 
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PROMLEE&layout=donut&show_icons=true&theme=apprentice&hide_border=true&count_private=true&exclude_repo=PromleeBlog" width=38%/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PROMLEE&layout=donut&show_icons=true&theme=apprentice&hide_border=true&count_private=true&exclude_repo=PromleeBlog&exclude_repo=Issue-Station" width=38%/>
 <img src="https://github-readme-stats.vercel.app/api?username=PROMLEE&show_icons=true&theme=apprentice&hide_border=true&count_private=true" width=56%>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PROMLEE&show_icons=true&theme=github-dark-dimmed&hide_border=true&count_private=true" width=94%/>
 
