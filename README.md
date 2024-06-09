@@ -7,7 +7,7 @@
 <summary>About Me</summary>
 <br>
 
-<a href="https://promleeblog.netlify.app">
+<a href="https://promleeblog.com">
   <img src="https://img.shields.io/badge/PROMLEE Blog-gray?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </a>
 <a href="mailto:donghoon099@naver.com">
