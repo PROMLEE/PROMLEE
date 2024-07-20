@@ -60,11 +60,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=PROMLEE&show_icons=true&theme=apprentice&hide_border=true&count_private=true&number_format=long" width=56%>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PROMLEE&show_icons=true&theme=github-dark-dimmed&hide_border=true&count_private=true" width=94%/>
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/PROMLEE/PROMLEE/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/PROMLEE/PROMLEE/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://github.com/PROMLEE/PROMLEE/blob/output/github-contribution-grid-snake.svg"/>
-</picture>
+</picture>-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:043e76,10:366491,30:688bac,75:9ablc8,100:ccd8e3&height=100&section=footer&text=&fontSize=0" width="100%"/>
 </div>
