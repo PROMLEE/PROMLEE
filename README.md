@@ -6,9 +6,6 @@
 <details>
 <summary>About Me</summary>
 <br>
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/PROMLEE?pet-id=1" width="1000" height="200"/>
-</a>
   
 <a href="https://promleeblog.com/aboutme">
   <img src="https://img.shields.io/badge/PROMLEE Blog-gray?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
@@ -55,6 +52,10 @@
 <br><br>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=donghoon099)](https://solved.ac/donghoon099)
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/PROMLEE?pet-id=1" width="1000" height="200"/>
+</a>
 </summary>
 </details>
 
