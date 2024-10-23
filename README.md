@@ -54,7 +54,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=donghoon099)](https://solved.ac/donghoon099)
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/PROMLEE?farms" width="1000" height="200"/>
+  <img src="https://render.gitanimals.org/farms/PROMLEE"/>
 </a>
 </summary>
 </details>
