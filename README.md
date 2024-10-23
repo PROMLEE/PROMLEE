@@ -6,7 +6,10 @@
 <details>
 <summary>About Me</summary>
 <br>
-
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/PROMLEE?pet-id=1" width="1000" height="120"/>
+</a>
+  
 <a href="https://promleeblog.com/aboutme">
   <img src="https://img.shields.io/badge/PROMLEE Blog-gray?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </a>
