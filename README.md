@@ -62,7 +62,7 @@
 <br><br>
 <img src="https://github-readme-stats-seven-nu-98.vercel.app/api/top-langs/?username=PROMLEE&layout=donut&show_icons=true&theme=apprentice&hide_border=true&count_private=true&include_all_commits=true&hide=MDX,go&langs_count=9" width=38%/>
 <img src="https://github-readme-stats-seven-nu-98.vercel.app/api?username=PROMLEE&show_icons=true&theme=apprentice&hide_border=true&count_private=true&number_format=long&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width=56%>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PROMLEE&show_icons=true&theme=github-dark-dimmed&hide_border=true&count_private=true" width=94%/>
+<!--  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PROMLEE&show_icons=true&theme=github-dark-dimmed&hide_border=true&count_private=true" width=94%/> -->
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/PROMLEE/PROMLEE/blob/output/github-contribution-grid-snake-dark.svg" />
