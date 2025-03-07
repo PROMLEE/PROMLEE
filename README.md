@@ -60,7 +60,7 @@
 </details>
 
 <br><br>
-<img src="https://github-readme-stats-seven-nu-98.vercel.app/api/top-langs/?username=PROMLEE&layout=donut&show_icons=true&theme=apprentice&hide_border=true&count_private=true&include_all_commits=true&hide=MDX,go&langs_count=9" width=38% height=300/>
+<img src="https://github-readme-stats-seven-nu-98.vercel.app/api/top-langs/?username=PROMLEE&layout=donut&show_icons=true&theme=apprentice&exclude_repo=github-readme-stats&hide_border=true&count_private=true&include_all_commits=true&hide=MDX,go&langs_count=9" width=38% height=300/>
 <img src="https://github-readme-stats-seven-nu-98.vercel.app/api?username=PROMLEE&show_icons=true&theme=apprentice&hide_border=true&count_private=true&number_format=long&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width=56% height=300>
 <!--  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PROMLEE&show_icons=true&theme=github-dark-dimmed&hide_border=true&count_private=true" width=94%/> -->
 
